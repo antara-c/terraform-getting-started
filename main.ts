@@ -1,5 +1,5 @@
 provider "google" {
-project = "qwiklabs-gcp-04-576cc70c1ddb"
+project = "fiery-monitor-321803"
 region = "us-west1"
 }
 
